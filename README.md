@@ -173,7 +173,7 @@
   gcc -o test Hello.c
   ```
 
-  ​	![1](./1.jpg)
+  ​	![111](./1.jpg)
 
   Hello world가 정상 출력 된 모습.
 
