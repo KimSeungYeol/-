@@ -175,7 +175,7 @@
   gcc -o test Hello.c
   ```
 
-  ​	![](./1.jpg)
+  ​	Format: ![](./1.jpg)
 
   Hello world가 정상 출력 된 모습.
 
