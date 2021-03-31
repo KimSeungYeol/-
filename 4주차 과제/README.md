@@ -30,7 +30,7 @@ https://developer.arm.com/tools-and-software/open-source-software/developer-tool
 
 위 주소에서 접속하여 Toolchain을 다운로드 받자.
 
-![1](./1.jpg)
+![1](./1.JPG)
 
 x86의 리눅스 64비트 파일을 다운로드 받자. 
 
@@ -46,7 +46,7 @@ x86의 리눅스 64비트 파일을 다운로드 받자.
 
   xPack QEMU를 다운로드 받자. 
 
-  ![2](./2.jpg)
+  ![2](./2.JPG)
 
 releases 를 클릭하여
 
