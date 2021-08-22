@@ -1,6 +1,5 @@
 # Embedded System Design Lab Homework Week 11
 
-# 2015118566_김승열
 
 ## 1. ADC란?
 
